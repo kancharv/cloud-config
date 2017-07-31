@@ -1,0 +1,3 @@
+redis.host=redis-10010.c14.us-east-1-2.ec2.cloud.redislabs.com
+redis.password=TfzorGFYB72BbXGQ
+redis.port=10010
